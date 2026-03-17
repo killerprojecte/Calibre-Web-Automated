@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: https://github.com/crocodilestick/Calibre-Web-"
 "Automated\n"
-"POT-Creation-Date: 2026-03-11 17:35+0000\n"
+"POT-Creation-Date: 2026-03-17 01:58+0000\n"
 "PO-Revision-Date: 2019-04-06 23:36+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -2555,39 +2555,39 @@ msgstr "%(book)s küldése e-olvasóra"
 msgid "Calibre ebook-convert %(tool)s not found"
 msgstr "Calibre e-könyv konvertáló eszköz %(tool)s nem található"
 
-#: cps/tasks/convert.py:196
+#: cps/tasks/convert.py:199
 #, python-format
 msgid "%(format)s format not found on disk"
 msgstr "A(z) %(format)s formátum nem található a lemezen"
 
-#: cps/tasks/convert.py:200
+#: cps/tasks/convert.py:203
 #, fuzzy
 msgid "Ebook converter failed with unknown error"
 msgstr "Az e-könyv átalakítás nem sikerült: %(error)s"
 
-#: cps/tasks/convert.py:219
+#: cps/tasks/convert.py:222
 #, fuzzy, python-format
 msgid "Kepubify-converter failed: %(error)s"
 msgstr "Kepubify konverter hibával leállt: %(error)s"
 
-#: cps/tasks/convert.py:244
+#: cps/tasks/convert.py:247
 #, python-format
 msgid "Converted file not found or more than one file in folder %(folder)s"
 msgstr ""
 "Az átalakított fájl nem található vagy több, mint 1 fájl van a könyvtárban "
 "%(folder)s"
 
-#: cps/tasks/convert.py:285 cps/tasks/convert.py:336
+#: cps/tasks/convert.py:288 cps/tasks/convert.py:342
 #, python-format
 msgid "Calibre failed with error: %(error)s"
 msgstr "A Calibre a következő hibával tért vissza: %(error)s"
 
-#: cps/tasks/convert.py:313
+#: cps/tasks/convert.py:319
 #, python-format
 msgid "Ebook-converter failed: %(error)s"
 msgstr "Az e-könyv átalakítás nem sikerült: %(error)s"
 
-#: cps/tasks/convert.py:341
+#: cps/tasks/convert.py:347
 #, fuzzy
 msgid "Convert"
 msgstr "Átalakítás"

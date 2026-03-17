@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version:  Calibre-Web Automated\n"
 "Report-Msgid-Bugs-To: https://github.com/crocodilestick/Calibre-Web-"
 "Automated\n"
-"POT-Creation-Date: 2026-03-11 17:35+0000\n"
+"POT-Creation-Date: 2026-03-17 01:58+0000\n"
 "PO-Revision-Date: 2020-09-27 22:18+0800\n"
 "Last-Translator: xlivevil <xlivevil@aliyun.com>\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
@@ -2455,36 +2455,36 @@ msgstr "%(book)s 发送到电子阅读器"
 msgid "Calibre ebook-convert %(tool)s not found"
 msgstr "Calibre 电子书转换器 %(tool)s 没有发现"
 
-#: cps/tasks/convert.py:196
+#: cps/tasks/convert.py:199
 #, python-format
 msgid "%(format)s format not found on disk"
 msgstr "硬盘上找不到 %(format)s 格式"
 
-#: cps/tasks/convert.py:200
+#: cps/tasks/convert.py:203
 msgid "Ebook converter failed with unknown error"
 msgstr "发生未知错误，书籍转换失败"
 
-#: cps/tasks/convert.py:219
+#: cps/tasks/convert.py:222
 #, python-format
 msgid "Kepubify-converter failed: %(error)s"
 msgstr "Kepubify 转换失败：%(error)s"
 
-#: cps/tasks/convert.py:244
+#: cps/tasks/convert.py:247
 #, python-format
 msgid "Converted file not found or more than one file in folder %(folder)s"
 msgstr "找不到转换后的文件或文件夹 %(folder)s 中有多个文件"
 
-#: cps/tasks/convert.py:285 cps/tasks/convert.py:336
+#: cps/tasks/convert.py:288 cps/tasks/convert.py:342
 #, python-format
 msgid "Calibre failed with error: %(error)s"
 msgstr "Calibre 运行失败，错误信息：%(error)s"
 
-#: cps/tasks/convert.py:313
+#: cps/tasks/convert.py:319
 #, python-format
 msgid "Ebook-converter failed: %(error)s"
 msgstr "电子书转换器失败： %(error)s"
 
-#: cps/tasks/convert.py:341
+#: cps/tasks/convert.py:347
 msgid "Convert"
 msgstr "转换"
 

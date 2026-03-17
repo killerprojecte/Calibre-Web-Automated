@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version:  Calibre-Web Automated\n"
 "Report-Msgid-Bugs-To: https://github.com/crocodilestick/Calibre-Web-"
 "Automated\n"
-"POT-Creation-Date: 2026-03-11 17:35+0000\n"
+"POT-Creation-Date: 2026-03-17 01:58+0000\n"
 "PO-Revision-Date: 2023-11-01 06:12+0100\n"
 "Last-Translator: Branislav Hanáček <brango@brango.sk>\n"
 "Language-Team: \n"
@@ -2507,37 +2507,37 @@ msgstr "%(book)s bol odoslaný do čítačky"
 msgid "Calibre ebook-convert %(tool)s not found"
 msgstr "Nástroj pre prevod ebook-convert %(tool)s sa nenašiel"
 
-#: cps/tasks/convert.py:196
+#: cps/tasks/convert.py:199
 #, python-format
 msgid "%(format)s format not found on disk"
 msgstr "Formát %(format)s sa nenachádza na disku"
 
-#: cps/tasks/convert.py:200
+#: cps/tasks/convert.py:203
 msgid "Ebook converter failed with unknown error"
 msgstr "Prevádzač e-kníh zlyhal s neznámou chybou"
 
-#: cps/tasks/convert.py:219
+#: cps/tasks/convert.py:222
 #, python-format
 msgid "Kepubify-converter failed: %(error)s"
 msgstr "Prevádzač Kepubify zlyhal: %(error)s"
 
-#: cps/tasks/convert.py:244
+#: cps/tasks/convert.py:247
 #, python-format
 msgid "Converted file not found or more than one file in folder %(folder)s"
 msgstr ""
 "Prevádzaný súbor sa nenašiel alebo viac ako jeden súbor v zložke %(folder)s"
 
-#: cps/tasks/convert.py:285 cps/tasks/convert.py:336
+#: cps/tasks/convert.py:288 cps/tasks/convert.py:342
 #, python-format
 msgid "Calibre failed with error: %(error)s"
 msgstr "Calibre zlyhal s chybou: %(error)s"
 
-#: cps/tasks/convert.py:313
+#: cps/tasks/convert.py:319
 #, python-format
 msgid "Ebook-converter failed: %(error)s"
 msgstr "Prevádzač e-kníh zlyhal: %(error)s"
 
-#: cps/tasks/convert.py:341
+#: cps/tasks/convert.py:347
 msgid "Convert"
 msgstr "Previesť"
 

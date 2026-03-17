@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Calibre-Web Automated\n"
 "Report-Msgid-Bugs-To: https://github.com/crocodilestick/Calibre-Web-"
 "Automated\n"
-"POT-Creation-Date: 2026-03-11 17:35+0000\n"
+"POT-Creation-Date: 2026-03-17 01:58+0000\n"
 "PO-Revision-Date: 2025-09-09 20:18+0200\n"
 "Last-Translator: Manuel Drescher\n"
 "Language-Team: German\n"
@@ -2555,38 +2555,38 @@ msgstr "%(book)s an E-Reader gesendet"
 msgid "Calibre ebook-convert %(tool)s not found"
 msgstr "Calibre E-Book Konverter %(tool)s nicht gefunden"
 
-#: cps/tasks/convert.py:196
+#: cps/tasks/convert.py:199
 #, python-format
 msgid "%(format)s format not found on disk"
 msgstr "%(format)s Format nicht gefunden"
 
-#: cps/tasks/convert.py:200
+#: cps/tasks/convert.py:203
 msgid "Ebook converter failed with unknown error"
 msgstr "E-Book Converter mit unbekanntem Fehler fehlgeschlagen"
 
-#: cps/tasks/convert.py:219
+#: cps/tasks/convert.py:222
 #, python-format
 msgid "Kepubify-converter failed: %(error)s"
 msgstr "Kepubify Konverter Aufruf fehlgeschlagen: %(error)s"
 
-#: cps/tasks/convert.py:244
+#: cps/tasks/convert.py:247
 #, python-format
 msgid "Converted file not found or more than one file in folder %(folder)s"
 msgstr ""
 "Konvertierte Datei nicht gefunden, oder mehr als eine Datei im Pfad "
 "%(folder)s"
 
-#: cps/tasks/convert.py:285 cps/tasks/convert.py:336
+#: cps/tasks/convert.py:288 cps/tasks/convert.py:342
 #, python-format
 msgid "Calibre failed with error: %(error)s"
 msgstr "Calibre fehlgeschlagen mit Fehler: %(error)s"
 
-#: cps/tasks/convert.py:313
+#: cps/tasks/convert.py:319
 #, python-format
 msgid "Ebook-converter failed: %(error)s"
 msgstr "Fehler des E-Book-Converters: %(error)s"
 
-#: cps/tasks/convert.py:341
+#: cps/tasks/convert.py:347
 msgid "Convert"
 msgstr "Konvertiere"
 
